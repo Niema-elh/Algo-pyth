@@ -379,10 +379,6 @@ for i in range(n):
 2. Iterate 10 to 0 using for loop, do the same using while loop.
 3. Write a loop that makes seven calls to print(), so we get on the output the following triangle:
 
-```
-for i in range(1, 8):
-    print("#" * i)
-```
 
    ```py
      #
@@ -393,6 +389,11 @@ for i in range(1, 8):
      ######
      #######
    ```
+
+```
+for i in range(1, 8):
+    print("#" * i)
+```
 
 4. Use nested loops to create the following:
 
